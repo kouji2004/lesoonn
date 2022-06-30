@@ -1,24 +1,13 @@
-# README
+#それ！ヒヤリーです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+今の日本は高齢者の割合が増え続け、転倒で怪我をされる方も多く見受けられます。少しでも転倒なく日常生活を送れるようにと思いサイトを作りました。
+### サイトテーマ
+家族、学生、一般のかたと幅広く利用でき、お互いが情報を出し合うことで転倒を防ぐことができます。
+### テーマを選んだ理由
+　色々な方が経済的な理由で入院できない、またアドバイスを貰いたいけど誰にも聞けないなどあります。少しでも色々な方が情報を公開することで不安を取り除けたらいいと思い、このテーマを選びました。
+### ターゲットユーザ
+家族、学生、一般と幅広い方に利用可能
+### 主な利用シーン
+ネットを通じて情報の共有
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
